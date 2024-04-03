@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom'
+ import PagDois from '../PagDois'
 
-import PagDois from '../PagDois/index'
 
 
 
