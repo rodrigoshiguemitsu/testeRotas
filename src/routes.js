@@ -9,7 +9,7 @@ import PagTres from './PagTres/pagTres'
 
 export default function Rotas() {
     return (
-        <BrowserRouter basename='/'>
+        <BrowserRouter>
         <Routes>
             <Route path='/' element={<Home />}/>
             <Route path='/PaginaDois' element={<PagDois />}/>
