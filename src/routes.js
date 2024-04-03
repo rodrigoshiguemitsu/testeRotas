@@ -8,8 +8,7 @@ import PagTres from './PagTres'
 
 export default function Rotas(){
     return(
-
-        <BrowserRouter>
+    <BrowserRouter>
     <Routes>
         
         <Route path='/PaginaDois' element={<PagDois />}/>
@@ -19,3 +18,7 @@ export default function Rotas(){
     </BrowserRouter>
         )
 }
+
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
