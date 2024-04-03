@@ -1,8 +1,8 @@
 
 import { Routes, Route, BrowserRouter } from 'react-router-dom'
 import Home from './Home'
-import PagDois from './PagDois'
-import PagTres from './PagTres'
+import PagDois from './PagDois/pagDois'
+import PagTres from './PagTres/pagTres'
 
 
 
