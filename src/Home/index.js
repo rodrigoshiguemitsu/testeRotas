@@ -11,7 +11,7 @@ function Home(){
 
         <main>
         <h1>Sou a pagina Home</h1>
-        <Link to='/PaginaDois' target='_blanck'>PaginaDois</Link>
+        <Link to='/PaginaDois' >PaginaDois</Link>
         </main>
         
         </div>
